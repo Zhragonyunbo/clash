@@ -1,4 +1,4 @@
 payload:
-  - IP-CIDR,204.1.110.20/32,no-resolve  # 指纹浏览器IP
+  - IP-CIDR,204.1.110.20/32  # 指纹浏览器IP
   - DOMAIN-KEYWORD,bandwagonhost
   - DOMAIN-SUFFIX,ipify.org
